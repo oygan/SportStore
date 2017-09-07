@@ -10,3 +10,4 @@ SportsStore.WebUI/!log_all.txt
 SportsStore.WebUI/!log_debug.txt
 SportsStore.WebUI/!log_errors.txt
 Utils/Utils.Log.NLog/obj/
+Utils/Utils.Log/obj/
