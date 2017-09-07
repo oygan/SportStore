@@ -1,0 +1,12 @@
+.vs/
+packages/
+SportsStore.Domain/bin/
+SportsStore.Domain/obj/
+SportsStore.UnitTests/bin/
+SportsStore.UnitTests/obj/
+SportsStore.WebUI/bin/
+SportsStore.WebUI/obj/
+SportsStore.WebUI/!log_all.txt
+SportsStore.WebUI/!log_debug.txt
+SportsStore.WebUI/!log_errors.txt
+Utils/Utils.Log.NLog/obj/
